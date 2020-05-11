@@ -1,6 +1,6 @@
 # Spring Boot REST API
 
-Spring Boot REST API use H2 In-memory database and Swagger UI for API Documentation
+Spring Boot REST API use MySQL database, Spring JPA, and Swagger UI for API Documentation
 
 #### :rocket:  Software Requirement
 ```bash
@@ -10,9 +10,7 @@ Project Lombok
 ```
 
 
-
 #### :rocket: URL
 ```bash
-http://localhost:8088/customer/swagger-ui.html
-http://localhost:8088/customer/h2
+http://localhost:8090/customer/swagger-ui.html
 ``` 
